@@ -1,13 +1,13 @@
-package com.itheima.springboot_mybatis;
+package com.yz.sppring_mybatis;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootMybatisApplicationTests {
+class SppringMybatisApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }

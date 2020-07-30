@@ -1,4 +1,4 @@
-package com.itheima.springboot_mybatis.domain;
+package com.yz.sppring_mybatis.domain;
 
 public class User {
     // 主键
